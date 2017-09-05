@@ -1,0 +1,3 @@
+npm install -g @angular/cli                       instala angular CLI
+ng new conFusion -dir./conFusion --style=scss     crea proyecto "conFusion"
+ng serve                                          compila y levanta la aplicacion
